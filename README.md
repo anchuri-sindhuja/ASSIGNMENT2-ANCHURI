@@ -18,3 +18,10 @@ The airport that is closest to the museum is London Heathrow (LHR)
 8.At Rotunda, take the 2nd exit onto London Wall/A1211
 8.Turn left
 9.Museum of London, 150 London Wall, London EC2Y 5HN, United Kingdom
+
+### Places around musuem
+* Stonehenge
+* Windsor Castle 
+* Bath from London 
+* Stonehenge
+* Windsor Castle 
