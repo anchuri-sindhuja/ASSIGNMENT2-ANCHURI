@@ -8,19 +8,13 @@ Step inside the museum of London for an unforgettable journey through the capita
 ### Airport Routemap
 The airport that is closest to the museum is London Heathrow (LHR)
 
-Heathrow Airport (LHR)
-Head northwest on Hatton Cross Roundabout
-115 ft
-Exit the roundabout onto Faggs Rd
-282 ft
-Turn left onto Great South-West Rd/A30
-0.8 mi
-Turn left onto The Pkwy/A312
-A40 turns slightly left and becomes King Edward St
-0.1 mi
-Continue onto Montague St
-456 ft
-At Rotunda, take the 2nd exit onto London Wall/A1211
-0.1 mi
-Turn left
-Museum of London, 150 London Wall, London EC2Y 5HN, United Kingdom
+1.Heathrow Airport (LHR)
+2.Head northwest on Hatton Cross Roundabout
+3.Exit the roundabout onto Faggs Rd
+4.Turn left onto Great South-West Rd/A30
+5.Turn left onto The Pkwy/A312
+6.A40 turns slightly left and becomes King Edward St
+7.Continue onto Montague St
+8.At Rotunda, take the 2nd exit onto London Wall/A1211
+8.Turn left
+9.Museum of London, 150 London Wall, London EC2Y 5HN, United Kingdom
