@@ -50,5 +50,28 @@ I would recommend to visit New York, Boston, Texas, New Jersey cities in USA. Th
 
 ---------------------------------------------------------------------------------------------------------
 
+###  Code Fencing
+
+>[article](https://css-tricks.com/php-templating-in-just-php/)
+
+$ <?php
+
+function getTwitterStatus($userid){
+$url = "https://api.twitter.com/1/statuses/user_timeline/$userid.xml?count=1&include_rts=1callback=?";
+
+$xml = simplexml_load_file($url) or die("could not connect");
+
+       foreach($xml->status as $status){
+       $text = $status->text;
+       }
+       echo $text;
+ }
+
+// USAGE
+getTwitterStatus("chriscoyier");
+
+?>
+
+> [PHP Snippet source] (https://css-tricks.com/snippets/php/get-latest-twitter-status/)
 
 
