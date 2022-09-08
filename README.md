@@ -42,3 +42,10 @@ I would recommend to visit New York, Boston, Texas, New Jersey cities in USA. Th
  
  --------------------------------------------------------------------------------------------------------
 
+### Quotes
+
+> When you're building a character, or at least when I'm building a character, you start saying, 'How am I going to make people like him?' - *John sandford*
+
+> "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.” - *William Shakespeare*
+
+---------------------------------------------------------------------------------------------------------
