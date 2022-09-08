@@ -28,6 +28,7 @@ The airport that is closest to the museum is London Heathrow (LHR)
 
 [AboutMe.md]                                                     (C:\Users\S550588\Desktop\ASSIGNMENT2-ANCHURI\AboutMe.md)
 
+---------------------------------------------------------------------------------------------------------
 ### Tables
 
 I would recommend to visit New York, Boston, Texas, New Jersey cities in USA. The first coloum in the table includes Name of the city, second coloum includes important location to visit and the third coloum indicates the  amount of time to spend visiting the important location.
@@ -38,5 +39,6 @@ I would recommend to visit New York, Boston, Texas, New Jersey cities in USA. Th
 | Boston           | New England Aquarium  |  2 hours                    |
 | Texas            | San Antonio River Walk|  1 hour                     |
 | New Jersey       | Ocean City            |  30 mins                    |
-
+ 
+ --------------------------------------------------------------------------------------------------------
 
