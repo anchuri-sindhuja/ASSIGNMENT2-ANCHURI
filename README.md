@@ -27,3 +27,14 @@ The airport that is closest to the museum is London Heathrow (LHR)
 * Windsor Castle 
 
 [AboutMe.md]                                                     (C:\Users\S550588\Desktop\ASSIGNMENT2-ANCHURI\AboutMe.md)
+
+### Tables
+
+--- I would recommend to visit New York, Boston, Texas, New Jersey cities in USA. The first coloum in the table includes Name of the city, second coloum includes important location to visit and the third coloum indicates the  amount of time to spend visiting the important location.
+
+| Name of the city | Location to visit     | Time spent in the location  |
+|------------------|-----------------------|-----------------------------|  
+| New York         | Statue of Liberty     |  2 hours                    |
+| Boston           | New England Aquarium  |  2 hours                    |
+| Texas            | San Antonio River Walk|  1 hour                     |
+| New Jersey       | Ocean City            |  30 mins                    |
