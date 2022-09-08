@@ -72,6 +72,6 @@ getTwitterStatus("chriscoyier");
 
 ?>
 
-> [PHP Snippet source] (https://css-tricks.com/snippets/php/get-latest-twitter-status/)
+> [PHP Snippet source](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
 
 
